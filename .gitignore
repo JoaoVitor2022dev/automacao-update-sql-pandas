@@ -1,0 +1,15 @@
+# Arquivo de configuração com senhas e caminhos
+.env
+
+# Pastas do ambiente virtual (VENV)
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Arquivo de comandos (se ele contiver testes sensíveis)
+comand.py
+
+# Pastas automáticas do Python
+__pycache__/
+*.pyc
